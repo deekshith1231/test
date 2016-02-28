@@ -30,7 +30,6 @@
         //'./alpha-testing-frontend-e2e-tests/define-universe-benchmark-with-screen.spec.js',
         //'./alpha-testing-frontend-e2e-tests/delete-report.spec.js',
         //'./alpha-testing-frontend-e2e-tests/delete-tile.spec.js',
-        //'./alpha-testing-frontend-e2e-tests/document-settings.spec.js',
         //'./alpha-testing-frontend-e2e-tests/edit-model-settings.spec.js',
         //'./alpha-testing-frontend-e2e-tests/group-reports.spec.js',
 
